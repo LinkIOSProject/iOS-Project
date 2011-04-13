@@ -6,10 +6,19 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		21BDD826135651FF00F525F0 /* HomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		21BDD827135651FF00F525F0 /* HomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		21BDD828135651FF00F525F0 /* HomeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		21BDD81D13564F6200F525F0 = {
 			isa = PBXGroup;
 			children = (
+				21BDD826135651FF00F525F0 /* HomeViewController.h */,
+				21BDD827135651FF00F525F0 /* HomeViewController.m */,
+				21BDD828135651FF00F525F0 /* HomeViewController.xib */,
 			);
 			sourceTree = "<group>";
 		};
